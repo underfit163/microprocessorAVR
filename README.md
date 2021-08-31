@@ -8,3 +8,4 @@ Design of microprocessor devices based on single-chip microcontrollers.
 Результаты обработки вывести через последовательный канал USART, работающий в асинхронном режиме по прерыванию на скорости 2400 б/с.
 
 ## РЕАЛИЗАЦИЯ НА STM32F103C6
+![image](https://user-images.githubusercontent.com/81982349/131560853-540b41fd-c901-49d6-aecc-4a3c0a79aedc.png)
